@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="sun_glare">#FFDC3C</color>
+   <color name="exuberant_orange">#FF8E3C</color>
+   <color name="blue_violet">#7A5AF8</color>
+   <color name="blue_violet_10">#1A7A5AF8</color>
+   <color name="cloud_dancer">#F8F8FA</color>
+   <color name="darkest_hour">#0A0A0F</color>
+   
+   <color name="primary">@color/blue_violet</color>
+   <color name="primary_variant">#6247D6</color>
+   <color name="secondary">@color/exuberant_orange</color>
+   <color name="secondary_variant">#E67A2E</color>
+   
+   <color name="background">@color/cloud_dancer</color>
+   <color name="surface">@android:color/white</color>
+   <color name="error">#F44336</color>
+   
+   <color name="on_primary">@android:color/white</color>
+   <color name="on_secondary">@color/darkest_hour</color>
+   <color name="on_background">@color/darkest_hour</color>
+   <color name="on_surface">@color/darkest_hour</color>
+   <color name="on_error">@android:color/white</color>
+   
+   <color name="text_primary">@color/darkest_hour</color>
+   <color name="text_secondary">#757575</color>
+   <color name="text_hint">#9E9E9E</color>
+   
+   <color name="border">#E0E0E0</color>
+   <color name="muted">#F5F5F5</color>
+   <color name="transparent">#00000000</color>
+</resources>
+
